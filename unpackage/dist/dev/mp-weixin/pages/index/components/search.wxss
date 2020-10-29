@@ -1,0 +1,291 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 定位 */
+.search-view image.data-v-2d807a8f {
+	width: 35rpx;
+	height: 35rpx;
+}
+.search-view.data-v-2d807a8f {
+	font-size: 30rpx;
+	font-weight: bold;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	height: 80rpx;
+}
+.search-text.data-v-2d807a8f {
+	padding: 0 10rpx;
+}
+/* @font-face {
+	  font-family: 'iconfont';  /* project id 2041532 */
+/* src: url('//at.alicdn.com/t/font_2041532_vxxb328vg6a.eot');
+	  src: url('//at.alicdn.com/t/font_2041532_vxxb328vg6a.eot?#iefix') format('embedded-opentype'),
+	  url('//at.alicdn.com/t/font_2041532_vxxb328vg6a.woff2') format('woff2'),
+	  url('//at.alicdn.com/t/font_2041532_vxxb328vg6a.woff') format('woff'),
+	  url('//at.alicdn.com/t/font_2041532_vxxb328vg6a.ttf') format('truetype'),
+	  url('//at.alicdn.com/t/font_2041532_vxxb328vg6a.svg#iconfont') format('svg');
+	}
+	.iconfont{
+	    font-family:"iconfont" !important;
+	    font-size:16px;font-style:normal;
+	    -webkit-font-smoothing: antialiased;
+	    -webkit-text-stroke-width: 0.2px;
+	    -moz-osx-font-smoothing: grayscale;
+		} */
+/* 搜索 */
+.search-img.data-v-2d807a8f {
+	margin: auto 0 auto 20rpx;
+	width: 40rpx;
+	height: 40rpx;
+}
+.search.data-v-2d807a8f {
+	height: 70rpx;
+	line-height: 70rpx;
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: flex;
+	    -ms-flex-direction: flex;
+	        flex-direction: flex;
+	background: #eff3f4;
+	border-radius: 10rpx;
+}
+.search input.data-v-2d807a8f {
+	height: 70rpx;
+	line-height: 70rpx;
+	width: 100%;
+	font-size: 25rpx;
+	color: #666666;
+}
+.search-cont.data-v-2d807a8f {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	height: 70rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+/* 轮播 */
+swiper.data-v-2d807a8f {
+	height: 320rpx !important;
+}
+/* 九宫格 */
+.swiper-item.data-v-2d807a8f {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	height: 320rpx;
+}
+.conteng-img.data-v-2d807a8f {
+	width: calc((100% / 5) - 12px) !important;
+	margin: 6px;
+	/* height: 120upx; */
+	position: relative;
+	text-align: center;
+}
+.conteng-img text.data-v-2d807a8f {
+	padding-top: 20rpx;
+	font-size: 25rpx;
+}
+.uploadimg.data-v-2d807a8f {
+	width: 70rpx;
+	height: 70rpx;
+	border-radius: 50rpx;
+	display: block;
+	margin: 0 auto;
+}
+/* 指示点 */
+.instruct-view.data-v-2d807a8f{display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; padding-top: 10rpx;}
+.instruct.data-v-2d807a8f{background: #e6e6e6; height: 10rpx; width: 30rpx; border-radius: 50rpx;
+	margin: 0 10rpx;
+}
+.active.data-v-2d807a8f{background: #fbae22 !important;}
+

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "motal": "/element/modal"
+  },
+  "component": true
+}

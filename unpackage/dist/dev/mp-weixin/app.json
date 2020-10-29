@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/order/order",
+    "pages/my/my",
+    "pages/search/index",
+    "pages/takeout/takeout",
+    "pages/placeorder/placeorder",
+    "pages/evaluate/evaluate"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "美团外卖",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999794",
+    "borderStyle": "white",
+    "backgroundColor": "#fafafa",
+    "selectedColor": "#ff0080",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/static/tab/shouyea.png",
+        "selectedIconPath": "/static/tab/shouyeb.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "iconPath": "/static/tab/dingdana.png",
+        "selectedIconPath": "/static/tab/dingdanb.png",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "/static/tab/wodea.png",
+        "selectedIconPath": "/static/tab/wodeb.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取开发同步"
+    }
+  },
+  "usingComponents": {
+    "v-load": "/element/loading"
+  }
+}

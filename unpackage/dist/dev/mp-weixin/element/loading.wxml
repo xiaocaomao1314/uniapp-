@@ -1,0 +1,1 @@
+<view class="loading data-v-f48d4282" catchtouchmove="{{true}}"><view class="data-v-f48d4282"><image src="/static/loadingmeituan.jpg" class="data-v-f48d4282"></image><text class="data-v-f48d4282">努力加载中...</text></view></view>
